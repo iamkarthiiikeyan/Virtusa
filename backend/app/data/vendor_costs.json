@@ -1,0 +1,41 @@
+{
+  "fiber_cost_per_km": {
+    "urban_underground": 35000,
+    "urban_aerial": 18000,
+    "suburban": 25000,
+    "rural": 15000,
+    "mountainous": 45000,
+    "default": 25000
+  },
+  "labor_cost_per_km": {
+    "urban": 8000,
+    "suburban": 6000,
+    "rural": 5000,
+    "mountainous": 12000,
+    "default": 6500
+  },
+  "permit_cost": {
+    "urban": 6000,
+    "suburban": 4000,
+    "rural": 3000,
+    "highway_crossing": 15000,
+    "railway_crossing": 25000,
+    "default": 4500
+  },
+  "equipment": {
+    "olt_unit": 25000,
+    "splitter_1x8": 800,
+    "splitter_1x32": 2500,
+    "ont_per_premise": 120,
+    "drop_cable_per_premise": 80,
+    "cabinet_outdoor": 5000
+  },
+  "installation_per_premise": {
+    "urban": 350,
+    "suburban": 300,
+    "rural": 250,
+    "default": 300
+  },
+  "base_equipment_cost": 10000,
+  "testing_per_km": 500
+}

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "black-pier-490610-b0",
+  "private_key_id": "a52f6160a07ccad7697b8e685c08e85275fbc2d7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCv3WFELShA1l1V\ntI9eUqO+l5Ce+k0gUsk4VZyXpVSjqj/GKRaA6sucPorKsrdGn64owsan5/nGx/72\nig7e/BT6/5/GdpEjS7eaEKkA3WHB2yDhBWyWwGFjOa2UC9Ckk7oeZ83KwzX811Ql\naEa38bXkm52aDelwSeudZ0mH7KaSFTUBsiwvxUeATUHdihFhN13ljynZkHhcsDcT\nOnC0OSlPMoV1L1hyRRnvHfsqcxfaXQxuB9Dx1vVoqpVHn0T9CRThjQuygZ6i0s9Z\nl3SIYj3IV5Za9emp53CEpet5F7TuNfXLnFsPUXM5o/jLNTOCRQsBA3IhPZ3phu/+\nshU1CbBjAgMBAAECggEADmgQ5b2FRKUgNDsnBiUNljli9thY+m2NtPhebEB2Sd9S\ne3CLkA1Wl1AQR+vn/k2/vfBmxwPGfwrhz18ej2m7FkIGhq2D1OOzq1fzYEdtEK0G\nE9OWl6rez3q+xhf0WZG4d3EtdzoSnB8k8i4z94bszZ4UhQrgCqYjj7C8Yfl4PmiC\nOxAoh0Lk9tMn2wT9HYh2DbZ9clPeA76TCbVdzkE3Zxt9E9MHHR7jHti9lxv59aao\nDzJQ7FpMtCnMllSRLSZ/uXBAPTJX6rAmKZSWdklTPc9vcgVvI6dct0Y7WT30wNdf\nb6ZSxzj8zQ7o/4QlUq78FCP5ArwcsszwnWtQVymRoQKBgQDXteMA4CWnHhooeQLt\nH3jdVUJfhZDrEv0619aTmtmmhp0I6uKk9O5sM966MgcuxtwPYmzUIiP1Zq30v5YT\na/wYWsVQjpp0nVPwN3YXI//40sz5zE5sUDgIvSpZ42kP2LzjZS1fugj4UVvLs2t3\nUqhiUku+m3Fe68aggoL10krNewKBgQDQtkkBcLZIFgbIvBFClz77nLQlXaGhNOF8\n1qFV8tvzbgFWzqRMvTw35p1MOyLnH32qFP9HAfapO4BsAlaXsAdx9aGJGSmE49PV\n/an2OcOx0MK5ObPtc5HS2OvyP+JNh5dCMcUcUgUeBD0UNpnaH7PcUYI1WT04hreY\npawxi+rQOQKBgQCJrWCevXGq0W62qE3y1KSK+BDt8M0HDM6tkPc2rJ4ASGjQOULB\nMEdArnaY9rdY5rmr5BE78DJtPcUHsoRyDvkO/lhzyyDQD150sqFfsa19veXwBbOE\nNEsfYMU4LApxf89Hf9tO/ukcvKjPQcv0k8A/SPFpTcM1Z10WM1as2TS/IwKBgDkN\ni1lscTe1ZbdbybAVXi8zv/7y4GsL5JPWrBWtpLifmpgbNsiPdjWlwdwD0l+xuQ1U\nXhAQFlhenpVn8jnW8cISLk0m5rWf/dliVSKs2bTy5zfw8SF41ST5DU6Ubg1Zglyi\n9EnwlduFtxiecGIzBly0n05sDZM1KFz+9No6cD7pAoGAZWSI/OIR9QMtYd4tLLGM\n3VwWvuCAYmA8jHMigWBDr0rOwFIvk4aRCl3s3voLVu/M2wsDw6fMOxF/Evy1VpPx\n/mEHQgsmcHdrs4rpZxTCOQ3gE/mVyYyuaS3zlx0+vM8UGX0CKYB1g+AoJkguRiG5\nh/B95Gu/T85D8weHru7yeUM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "atlas-earth-engine@black-pier-490610-b0.iam.gserviceaccount.com",
+  "client_id": "103063765093646202396",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/atlas-earth-engine%40black-pier-490610-b0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

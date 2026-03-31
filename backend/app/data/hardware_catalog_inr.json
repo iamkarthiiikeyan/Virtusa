@@ -1,0 +1,281 @@
+{
+  "currency": "INR",
+  "exchange_rate_usd_to_inr": 83.5,
+  "last_updated": "2026-03-01",
+  "catalog": {
+    "fiber_cable": {
+      "single_mode_24core_per_km": {
+        "name": "Single Mode Fiber Cable (24 Core)",
+        "unit": "per km",
+        "price_inr": 18000,
+        "category": "fiber_cable",
+        "vendor_ref": "Sterlite/Finolex 24F SM G.652D",
+        "online_search_term": "24 core single mode fiber optic cable price India"
+      },
+      "single_mode_48core_per_km": {
+        "name": "Single Mode Fiber Cable (48 Core)",
+        "unit": "per km",
+        "price_inr": 32000,
+        "category": "fiber_cable",
+        "vendor_ref": "Sterlite/Polycab 48F SM G.652D"
+      },
+      "single_mode_96core_per_km": {
+        "name": "Single Mode Fiber Cable (96 Core)",
+        "unit": "per km",
+        "price_inr": 55000,
+        "category": "fiber_cable",
+        "vendor_ref": "Sterlite 96F SM G.652D"
+      },
+      "drop_cable_per_unit": {
+        "name": "FTTH Drop Cable (2 Core, per premise)",
+        "unit": "per premise",
+        "price_inr": 350,
+        "category": "fiber_cable",
+        "vendor_ref": "2F FTTH Drop Cable 100m coil"
+      }
+    },
+    "active_equipment": {
+      "olt_8port": {
+        "name": "OLT - 8 Port GPON",
+        "unit": "each",
+        "price_inr": 185000,
+        "capacity": "serves 1024 ONTs (8 ports × 128 split)",
+        "category": "active_equipment",
+        "vendor_ref": "Huawei MA5608T / VSOL V1600G"
+      },
+      "olt_16port": {
+        "name": "OLT - 16 Port GPON",
+        "unit": "each",
+        "price_inr": 350000,
+        "capacity": "serves 2048 ONTs",
+        "category": "active_equipment",
+        "vendor_ref": "Huawei MA5800-X7 / ZTE C320"
+      },
+      "ont_single": {
+        "name": "ONT/ONU (Single port, per premise)",
+        "unit": "per premise",
+        "price_inr": 1800,
+        "category": "active_equipment",
+        "vendor_ref": "Syrotech SY-GPON-1110 / Nokia G-010G-A"
+      },
+      "ont_wifi": {
+        "name": "ONT with WiFi Router (per premise)",
+        "unit": "per premise",
+        "price_inr": 2800,
+        "category": "active_equipment",
+        "vendor_ref": "Syrotech SY-GPON-1110-WDONT"
+      },
+      "l3_switch": {
+        "name": "L3 Aggregation Switch (24 Port 10G)",
+        "unit": "each",
+        "price_inr": 125000,
+        "capacity": "aggregates multiple OLTs",
+        "category": "active_equipment",
+        "vendor_ref": "Cisco/Huawei 24x10G SFP+"
+      },
+      "core_router": {
+        "name": "Core Router (Edge)",
+        "unit": "each",
+        "price_inr": 450000,
+        "capacity": "backhaul to ISP/IX",
+        "category": "active_equipment",
+        "vendor_ref": "Mikrotik CCR2216 / Juniper MX204"
+      }
+    },
+    "passive_equipment": {
+      "splitter_1x8": {
+        "name": "PLC Splitter 1:8",
+        "unit": "each",
+        "price_inr": 650,
+        "category": "passive_equipment",
+        "vendor_ref": "SC/APC PLC Splitter Box"
+      },
+      "splitter_1x16": {
+        "name": "PLC Splitter 1:16",
+        "unit": "each",
+        "price_inr": 1100,
+        "category": "passive_equipment"
+      },
+      "splitter_1x32": {
+        "name": "PLC Splitter 1:32",
+        "unit": "each",
+        "price_inr": 1800,
+        "category": "passive_equipment"
+      },
+      "splice_closure": {
+        "name": "Fiber Splice Closure (96 core)",
+        "unit": "each",
+        "price_inr": 2200,
+        "category": "passive_equipment"
+      },
+      "fdb_box_8port": {
+        "name": "Fiber Distribution Box (8 Port)",
+        "unit": "each",
+        "price_inr": 850,
+        "category": "passive_equipment"
+      },
+      "fdb_box_16port": {
+        "name": "Fiber Distribution Box (16 Port)",
+        "unit": "each",
+        "price_inr": 1400,
+        "category": "passive_equipment"
+      },
+      "patch_panel_24port": {
+        "name": "Fiber Patch Panel (24 Port, for OLT rack)",
+        "unit": "each",
+        "price_inr": 3500,
+        "category": "passive_equipment"
+      },
+      "patch_cord_sc_apc": {
+        "name": "Patch Cord SC/APC (3m)",
+        "unit": "per premise",
+        "price_inr": 120,
+        "category": "passive_equipment"
+      }
+    },
+    "civil_infrastructure": {
+      "hdpe_duct_40mm_per_km": {
+        "name": "HDPE Duct 40mm (per km)",
+        "unit": "per km",
+        "price_inr": 28000,
+        "category": "civil_infrastructure"
+      },
+      "microduct_7way_per_km": {
+        "name": "Microduct 7-way (per km)",
+        "unit": "per km",
+        "price_inr": 45000,
+        "category": "civil_infrastructure"
+      },
+      "manhole_chamber": {
+        "name": "Manhole / Handhole Chamber",
+        "unit": "each",
+        "price_inr": 12000,
+        "category": "civil_infrastructure",
+        "note": "1 per 300-500m"
+      },
+      "pole_9m_steel": {
+        "name": "Steel Pole 9m (for aerial deployment)",
+        "unit": "each",
+        "price_inr": 8500,
+        "category": "civil_infrastructure",
+        "note": "1 per 50-70m span"
+      },
+      "outdoor_cabinet": {
+        "name": "Outdoor Cabinet (IP65, for OLT/splitter)",
+        "unit": "each",
+        "price_inr": 35000,
+        "category": "civil_infrastructure"
+      },
+      "server_rack_42u": {
+        "name": "Server Rack 42U (for CO/POP)",
+        "unit": "each",
+        "price_inr": 22000,
+        "category": "civil_infrastructure"
+      }
+    },
+    "labor_rates": {
+      "trenching_urban_per_km": {
+        "name": "Trenching & Duct Laying (Urban)",
+        "unit": "per km",
+        "price_inr": 180000,
+        "category": "labor"
+      },
+      "trenching_rural_per_km": {
+        "name": "Trenching & Duct Laying (Rural)",
+        "unit": "per km",
+        "price_inr": 95000,
+        "category": "labor"
+      },
+      "aerial_stringing_per_km": {
+        "name": "Aerial Cable Stringing (per km)",
+        "unit": "per km",
+        "price_inr": 55000,
+        "category": "labor"
+      },
+      "fiber_splicing_per_joint": {
+        "name": "Fiber Splicing (per joint/splice)",
+        "unit": "per splice",
+        "price_inr": 250,
+        "category": "labor"
+      },
+      "ont_installation_per_premise": {
+        "name": "ONT Installation & Activation (per premise)",
+        "unit": "per premise",
+        "price_inr": 800,
+        "category": "labor"
+      },
+      "otdr_testing_per_km": {
+        "name": "OTDR Testing & Certification (per km)",
+        "unit": "per km",
+        "price_inr": 3500,
+        "category": "labor"
+      },
+      "survey_design_per_km": {
+        "name": "Route Survey & Design (per km)",
+        "unit": "per km",
+        "price_inr": 8000,
+        "category": "labor"
+      }
+    },
+    "permits_regulatory": {
+      "road_cutting_urban": {
+        "name": "Road Cutting Permission (Urban/Municipal)",
+        "unit": "per km",
+        "price_inr": 45000,
+        "category": "permits"
+      },
+      "road_cutting_rural": {
+        "name": "Road Cutting Permission (Rural/Panchayat)",
+        "unit": "per km",
+        "price_inr": 15000,
+        "category": "permits"
+      },
+      "railway_crossing": {
+        "name": "Railway Crossing Permission",
+        "unit": "per crossing",
+        "price_inr": 200000,
+        "category": "permits"
+      },
+      "highway_crossing_nhai": {
+        "name": "NHAI Highway Crossing Permission",
+        "unit": "per crossing",
+        "price_inr": 150000,
+        "category": "permits"
+      },
+      "dot_license": {
+        "name": "DoT ISP License Fee (annual)",
+        "unit": "annual",
+        "price_inr": 100000,
+        "category": "permits"
+      }
+    },
+    "opex_annual": {
+      "electricity_per_cabinet": {
+        "name": "Electricity (per outdoor cabinet, annual)",
+        "unit": "annual per cabinet",
+        "price_inr": 36000,
+        "category": "opex"
+      },
+      "maintenance_per_km": {
+        "name": "Fiber Maintenance (per km, annual)",
+        "unit": "annual per km",
+        "price_inr": 5000,
+        "category": "opex"
+      },
+      "noc_staff_per_month": {
+        "name": "NOC Staff (per person, monthly)",
+        "unit": "monthly",
+        "price_inr": 35000,
+        "category": "opex"
+      },
+      "software_license_annual": {
+        "name": "NMS/OSS Software License (annual)",
+        "unit": "annual",
+        "price_inr": 200000,
+        "category": "opex"
+      }
+    }
+  },
+  "contingency_percent": 12,
+  "gst_percent": 18
+}
